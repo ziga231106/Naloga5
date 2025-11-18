@@ -7,7 +7,6 @@ HEAD
 neka sprememba
 še ena sprememba
 še še ena sprememba
-3cf191e (Druga sprememba prvega odstavka)
 
 ## Glavne značilnosti
 
