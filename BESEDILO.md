@@ -2,6 +2,7 @@
 
 LOLOLOLOLOLOLOL
 neka sprememba
+neki drugega
 
 ## Glavne značilnosti
 
