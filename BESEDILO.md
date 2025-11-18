@@ -2,8 +2,6 @@
 
 LOLOLOLOLOLOLOL
 neka sprememba
-še ena sprememba
-še zadnja sprememba
 
 ## Glavne značilnosti
 
