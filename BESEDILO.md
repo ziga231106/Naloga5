@@ -2,17 +2,11 @@
 
 LOLOLOLOLOLOLOL
 
-HEAD
-
 
 neka sprememba
 še ena sprememba
 še še ena sprememba
 
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 
 ## Glavne značilnosti
 
