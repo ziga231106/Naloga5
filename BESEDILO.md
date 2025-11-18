@@ -1,7 +1,7 @@
 # Uvod v Git
 
 LOLOLOLOLOLOLOL
-
+neka sprememba
 
 ## Glavne značilnosti
 
