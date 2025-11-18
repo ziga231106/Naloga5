@@ -10,6 +10,7 @@ LOLOLOLOLOLOLOL
 - **Skladnost (merge)**: Git zna združiti spremembe različnih razvijalcev.  
 - **Razpršenost**: vsak razvijalec ima popolno kopijo repozitorija.  
 - **Zanesljivost**: Git zagotavlja integriteto podatkov s preverjanjem hash vrednosti (SHA-1).
+- **Jaz sem Filip in sem spremenil to datoteko
 
 
 ## Pogosti ukazi
